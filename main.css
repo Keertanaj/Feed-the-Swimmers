@@ -75,3 +75,10 @@ input[type=checkbox] {
     transition: 3s;
     box-sizing: border-box;
 }
+.title_main{
+    list-style : none;
+    padding: 1em;
+    text-align : center;
+    justify-content: center;
+    background: gray;
+}
