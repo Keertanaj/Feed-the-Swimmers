@@ -82,3 +82,25 @@ input[type=checkbox] {
     justify-content: center;
     background: gray;
 }
+.intro{
+    padding-top: 2%;
+    padding-bottom: none;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.about-author{
+    display:flex;
+    align-items: center;
+    padding: 10%;
+    padding-top: 5%;
+}
+#col1{
+    max-width: 70%;
+    width: 3000px;
+}
+.col2{
+    max-width: 50%;
+}
+a{
+    color:salmon;
+}
