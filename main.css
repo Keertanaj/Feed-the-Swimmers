@@ -180,7 +180,7 @@ h3{
 .nav-bottom{
     display: flex;
     justify-content: space-between;
-    padding: 10%;
+    padding: 2%;;
 }
 #blog-awards{
     max-width: 40%;
