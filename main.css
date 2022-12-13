@@ -160,6 +160,11 @@ b{
     align-items: center;
     justify-content: space-between;
 }
+.ms-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 #img-1{
     display: inline-block;
     max-width: 70%;
