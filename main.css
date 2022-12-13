@@ -44,6 +44,10 @@ h1{
     font-family: "Didot",serif;
     font-size: 0.75em;
 }
+a{
+    color:rgb(51, 50, 50);
+}
+}
 nav a{
     text-decoration: none;
     color: black;
@@ -112,9 +116,7 @@ input[type=checkbox] {
     font-family: "Garamond",serif;
     font-size: 1em;
 }
-a{
-    color:rosybrown;
-}
+
 h2{
     font-family: "georgia",serif;
     font-size: 2em;
@@ -147,4 +149,77 @@ b{
     font-size: 1em;
     font-weight:600;
     font-family: "Garamond",serif;
+}
+.more-swoon{
+    background: rosybrown;
+    text-align: center;
+    padding: 2%;
+}
+.more-swoon-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#img-1{
+    display: inline-block;
+    max-width: 70%;
+}
+#img-2{
+    max-width: 70%;
+}
+#img-3{
+    max-width: 70%;
+}
+h3{
+    width: 0;
+    min-width: 100%;
+    font-family: "optima",serif;
+    font-size: 0.75em;
+    font-weight: 100;
+}
+.nav-bottom{
+    display: flex;
+    justify-content: space-between;
+    padding: 10%;
+}
+#blog-awards{
+    max-width: 40%;
+    padding
+}
+.newsletter{
+    justify-content: space-between;
+    max-width: 60%;
+}
+.nl-1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 0.95rem;
+    color:rgb(51, 50, 50);
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    display: flex;
+}
+.nl-2{
+    text-align: center;
+    font-size: 0.85rem;
+    color:rgb(51, 50, 50);
+}
+.nl-3{
+    list-style : none;
+    display: flex;
+    padding: 1em;
+    margin : 0 1em;
+    justify-content: center;
+    font-family: "Didot",serif;
+    font-size: 0.75em;
+    color:rgb(51, 50, 50);
+}
+.nl-4{
+    text-align: center;
+    font-size: 0.75rem;
+    color:rgb(51, 50, 50);  
+    text-decoration: none;
 }
