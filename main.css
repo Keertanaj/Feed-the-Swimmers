@@ -120,6 +120,20 @@ h2{
     color:rgb(51, 50, 50);
     text-align : center;
 }
+h3{
+    font-family: "georgia",serif;
+    font-size: 2em;
+    font-weight: normal;
+    color:rgb(51, 50, 50);
+    text-align : center;
+}
+h4{
+    width: 0;
+    min-width: 100%;
+    font-family: "optima",serif;
+    font-size: 0.75em;
+    font-weight: 100;
+}
 .recipe{
     padding-top: none;
     padding-left: 25%;
