@@ -86,6 +86,10 @@ nav a:hover,
     justify-content: center;
     background: gray;
 }
+.subtitle{
+    text-align: center;
+    font-size: 0.75rem;
+}
 .intro{
     padding-top: 2%;
     padding-bottom: none;
